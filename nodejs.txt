@@ -1,0 +1,39 @@
+webdriver-manager update --ignore-ssl --proxy http://XXX.XXX.XXX:80
+webdriver-manager start --ignore-ssl --proxy http://XXX.XXX.XXX:80
+
+
+npm uninstall webdriver-manager -g ==> OK, webdriver was uninstalled
+npm install -g webdriver-manager ==> OK, webdriver was installed (No warnings or errors!)
+webdriver-manager update ==> Error 1 in the Screenshot
+webdriver-manager status ==> OK, No Drivers Present
+webdriver-manager update --standalone ==> Error 2 in the Screenshot
+webdriver-manager --ignore_ssl --proxy=http://127.0.0.1:3128 update ==> Error 3 in the Screenshot
+
+npm uninstall webdriver-manager -g ==> OK, webdriver was uninstalled
+npm install -g webdriver-manager ==> OK, webdriver was installed (No warnings or errors!)
+webdriver-manager update ==> Error 1 in the Screenshot
+webdriver-manager status ==> OK, No Drivers Present
+webdriver-manager update --standalone ==> Error 2 in the Screenshot
+webdriver-manager --ignore_ssl --proxy=http://127.0.0.1:3128 update ==> Error 3 in the Screenshot
+
+Installing Protractor npm windows environment behind proxy
+
+
+
+java -jar selenium/selenium-server-standalone-3.14.0.jar -Dwebdriver.chrome.driver=./selenium/chromedriver
+
+D:\protractorRun\selenium
+
+
+
+
+
+
+npm uninstall webdriver-manager -g
+
+npm install -g webdriver-manager
+
+webdriver-manager status
+
+webdriver-manager update --standalone
+

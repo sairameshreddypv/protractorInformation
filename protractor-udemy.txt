@@ -1,0 +1,54 @@
+what is protractor ?
+  protractor is an end2end test framework for Angular and angular application
+  webdriver + Angular support = Protractor
+
+Why protractor ?
+  stable framework to work with Angular framework . it is developed and maintain by Angular Team
+
+what lang does protractor support ?
+  Protractor is node.js program built on webdriverJs . So it uses javascript as a core lang
+
+Why protractor is more popular and huge demand in the market ?
+
+Course outcome
+ node.js
+ Jasmine framework
+ Protractor API
+ 
+ 
+ protractor installation
+ ****************************
+ 1) install node.js
+    
+ 2)Set node in system variables
+   set system variable
+   create new system variable
+   NODE_HOME ="c:\program files\node.js"
+	  
+ 3) importance of npm (Node package manager)
+	npm -v
+	
+	Edit env variables
+	 C: \Program Files\nodejs\node_modules\npm\bin
+	
+ 4) install Protractor
+    npm install -g protractor
+	npm uninstall -g protractor
+	protractor --version
+ 
+    c:\Users\xxx\AppData\Roaming\npm
+ 5) webdriver manager plugin
+    
+	- webdriver-manager update
+	- webdriver-manager start
+	- ctrl + c stop selenium server
+	
+ 6) download Eclipse javascript tool
+    Eclipse oxygen(3) -- > IDE for Javascript and webdevelopers
+	 
+	 1) create Javascript project
+	 
+	 
+ 7) importance of Jasmine framework for protractor test
+ 
+    

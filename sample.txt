@@ -1,0 +1,109 @@
+node -v  ---> v8.11.2
+npm -v   ---> 5.6.0
+protractor --version  ---> 5.4.2
+webdriver-manager version --> 12.1.6
+npm install @types/node --save
+npm install events
+
+
+
+webdriver-manager update --ignore-ssl --proxy http://XXX.XXX.XXX:80
+webdriver-manager start --ignore-ssl --proxy http://XXX.XXX.XXX:80
+
+
+npm uninstall webdriver-manager -g ==> OK, webdriver was uninstalled
+npm install -g webdriver-manager ==> OK, webdriver was installed (No warnings or errors!)
+webdriver-manager update ==> Error 1 in the Screenshot
+webdriver-manager status ==> OK, No Drivers Present
+webdriver-manager update --standalone ==> Error 2 in the Screenshot
+webdriver-manager --ignore_ssl --proxy=http://127.0.0.1:3128 update ==> Error 3 in the Screenshot
+
+npm uninstall webdriver-manager -g ==> OK, webdriver was uninstalled
+npm install -g webdriver-manager ==> OK, webdriver was installed (No warnings or errors!)
+webdriver-manager update ==> Error 1 in the Screenshot
+webdriver-manager status ==> OK, No Drivers Present
+webdriver-manager update --standalone ==> Error 2 in the Screenshot
+webdriver-manager --ignore_ssl --proxy=http://127.0.0.1:3128 update ==> Error 3 in the Screenshot
+
+Installing Protractor npm windows environment behind proxy
+
+
+
+java -jar selenium/selenium-server-standalone-3.14.0.jar -Dwebdriver.chrome.driver=./selenium/chromedriver
+
+D:\protractorRun\selenium
+
+
+
+
+
+
+npm uninstall webdriver-manager -g
+
+npm install -g webdriver-manager
+
+webdriver-manager status
+
+webdriver-manager update --standalone
+
+
+ seleniumArgs: ['-Dwebdriver.ie.driver="node_modules/protractor/node_modules/webdriver-manager/selenium/IEDriverServer3.141.0.exe"'],
+
+
+what is protractor ?
+  protractor is an end2end test framework for Angular and angular application
+  webdriver + Angular support = Protractor
+
+Why protractor ?
+  stable framework to work with Angular framework . it is developed and maintain by Angular Team
+
+what lang does protractor support ?
+  Protractor is node.js program built on webdriverJs . So it uses javascript as a core lang
+
+Why protractor is more popular and huge demand in the market ?
+
+Course outcome
+ node.js
+ Jasmine framework
+ Protractor API
+ 
+ 
+ protractor installation
+ ****************************
+ 1) install node.js
+    
+ 2)Set node in system variables
+   set system variable
+   create new system variable
+   NODE_HOME ="c:\program files\node.js"
+	  
+ 3) importance of npm (Node package manager)
+	npm -v
+	
+	Edit env variables
+	 C: \Program Files\nodejs\node_modules\npm\bin
+	
+ 4) install Protractor
+    npm install -g protractor
+	npm uninstall -g protractor
+	protractor --version
+ 
+    c:\Users\xxx\AppData\Roaming\npm
+ 5) webdriver manager plugin
+    
+	- webdriver-manager update
+	- webdriver-manager start
+	- ctrl + c stop selenium server
+	
+ 6) download Eclipse javascript tool
+    Eclipse oxygen(3) -- > IDE for Javascript and webdevelopers
+	 
+	 1) create Javascript project
+	 
+	 
+ 7) importance of Jasmine framework for protractor test
+ 
+    
+   
+
+

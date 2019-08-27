@@ -1,0 +1,43 @@
+ng
+ng serve
+ng build
+ng test
+ng lint
+webdriver-manager clean
+webdriver-manager update --chrome --ie --gecko
+webdriver-manager start --detach
+webdriver-manager shutdown
+ng e2e --webdriver-update=false
+protractor protractor.hub.conf.js
+===================================
+ng-app
+ng-model
+ng-repeater
+ng-bind
+
+
+
+
+
+
+npm install -g @types/jest
+====================================
+npm install -g @angular/cli
+npm install --save-dev jasmine
+npm install --save @types/jasmine
+npm install -g typescript
+npm install jasminewd2
+npm install --save-dev protractor
+webdriver-manager install
+webdriver-manager update
+npm update -g typescript
+npm i ts-node
+
+npm install --save-dev cucumber
+npm install --save-dev @types/cucumber
+npm install --save-dev protractor-cucumber-framework
+npm install --save-dev ts-node
+npm install --save-dev chai-as-promised
+npm install --save-dev chai
+npm install --save-dev @types/chai
+npm install cucumber-html-reporter --save--dev

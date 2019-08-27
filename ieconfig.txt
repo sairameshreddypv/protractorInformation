@@ -1,0 +1,2 @@
+ seleniumArgs: ['-Dwebdriver.ie.driver="node_modules/protractor/node_modules/webdriver-manager/selenium/IEDriverServer3.141.0.exe"'],
+   
