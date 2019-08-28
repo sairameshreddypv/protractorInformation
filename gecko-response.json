@@ -63,7 +63,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2913969,
-        "download_count": 41178,
+        "download_count": 41282,
         "created_at": "2019-01-28T22:51:12Z",
         "updated_at": "2019-01-28T22:51:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux32.tar.gz"
@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2896664,
-        "download_count": 23928120,
+        "download_count": 24001109,
         "created_at": "2019-01-28T22:50:11Z",
         "updated_at": "2019-01-28T22:50:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz"
@@ -131,7 +131,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2099879,
-        "download_count": 2030012,
+        "download_count": 2036833,
         "created_at": "2019-01-28T22:50:56Z",
         "updated_at": "2019-01-28T22:50:56Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-macos.tar.gz"
@@ -165,7 +165,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3911874,
-        "download_count": 388823,
+        "download_count": 389499,
         "created_at": "2019-01-28T22:50:18Z",
         "updated_at": "2019-01-28T22:50:18Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win32.zip"
@@ -199,7 +199,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4673848,
-        "download_count": 8714663,
+        "download_count": 8734124,
         "created_at": "2019-01-28T22:50:52Z",
         "updated_at": "2019-01-28T22:50:53Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip"
@@ -273,7 +273,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3744454,
-        "download_count": 33783,
+        "download_count": 33790,
         "created_at": "2018-10-04T13:17:20Z",
         "updated_at": "2018-10-04T13:17:20Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-arm7hf.tar.gz"
@@ -307,7 +307,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3902127,
-        "download_count": 16818,
+        "download_count": 16823,
         "created_at": "2018-10-04T13:19:08Z",
         "updated_at": "2018-10-04T13:19:08Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-linux32.tar.gz"
@@ -341,7 +341,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3876109,
-        "download_count": 17043856,
+        "download_count": 17061894,
         "created_at": "2018-10-04T13:18:58Z",
         "updated_at": "2018-10-04T13:18:59Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-linux64.tar.gz"
@@ -375,7 +375,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2413898,
-        "download_count": 3799780,
+        "download_count": 3808764,
         "created_at": "2018-10-04T13:19:01Z",
         "updated_at": "2018-10-04T13:19:01Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-macos.tar.gz"
@@ -409,7 +409,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4626003,
-        "download_count": 232333,
+        "download_count": 232402,
         "created_at": "2018-10-04T13:18:17Z",
         "updated_at": "2018-10-04T13:18:18Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-win32.zip"
@@ -443,7 +443,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 5266834,
-        "download_count": 7022085,
+        "download_count": 7027897,
         "created_at": "2018-10-04T13:19:21Z",
         "updated_at": "2018-10-04T13:19:21Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.23.0/geckodriver-v0.23.0-win64.zip"
@@ -551,7 +551,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3890915,
-        "download_count": 4150,
+        "download_count": 4151,
         "created_at": "2018-09-15T23:49:45Z",
         "updated_at": "2018-09-15T23:49:45Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-linux32.tar.gz"
@@ -585,7 +585,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3866448,
-        "download_count": 1171391,
+        "download_count": 1171507,
         "created_at": "2018-09-15T23:49:10Z",
         "updated_at": "2018-09-15T23:49:10Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-linux64.tar.gz"
@@ -619,7 +619,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2402056,
-        "download_count": 187491,
+        "download_count": 187527,
         "created_at": "2018-09-15T23:50:51Z",
         "updated_at": "2018-09-15T23:50:52Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-macos.tar.gz"
@@ -653,7 +653,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4609556,
-        "download_count": 39895,
+        "download_count": 39899,
         "created_at": "2018-09-15T23:50:10Z",
         "updated_at": "2018-09-15T23:50:11Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-win32.zip"
@@ -687,7 +687,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 5227668,
-        "download_count": 935031,
+        "download_count": 935074,
         "created_at": "2018-09-15T23:50:30Z",
         "updated_at": "2018-09-15T23:50:30Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-win64.zip"
@@ -829,7 +829,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 3154655,
-        "download_count": 11228073,
+        "download_count": 11231779,
         "created_at": "2018-06-15T20:57:57Z",
         "updated_at": "2018-06-15T20:57:57Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-linux64.tar.gz"
@@ -863,7 +863,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1874024,
-        "download_count": 1363435,
+        "download_count": 1364618,
         "created_at": "2018-06-15T20:57:11Z",
         "updated_at": "2018-06-15T20:57:11Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-macos.tar.gz"
@@ -897,7 +897,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3099996,
-        "download_count": 193527,
+        "download_count": 193532,
         "created_at": "2018-06-18T12:34:38Z",
         "updated_at": "2018-06-18T12:34:40Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win32.zip"
@@ -931,7 +931,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3942715,
-        "download_count": 2688007,
+        "download_count": 2688101,
         "created_at": "2018-06-15T20:58:31Z",
         "updated_at": "2018-06-15T20:58:31Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip"
@@ -1073,7 +1073,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2688486,
-        "download_count": 7328252,
+        "download_count": 7329439,
         "created_at": "2018-04-08T12:45:27Z",
         "updated_at": "2018-04-08T12:45:28Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-linux64.tar.gz"
@@ -1107,7 +1107,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1560036,
-        "download_count": 2888137,
+        "download_count": 2888791,
         "created_at": "2018-04-08T12:45:28Z",
         "updated_at": "2018-04-08T12:45:28Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-macos.tar.gz"
@@ -1141,7 +1141,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2483907,
-        "download_count": 152923,
+        "download_count": 152939,
         "created_at": "2018-04-08T12:55:10Z",
         "updated_at": "2018-04-08T12:55:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-win32.zip"
@@ -1175,7 +1175,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3102871,
-        "download_count": 4161055,
+        "download_count": 4161520,
         "created_at": "2018-04-08T12:50:12Z",
         "updated_at": "2018-04-08T12:50:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-win64.zip"
@@ -1283,7 +1283,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2855060,
-        "download_count": 9337,
+        "download_count": 9363,
         "created_at": "2018-03-12T23:23:17Z",
         "updated_at": "2018-03-12T23:23:17Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-linux32.tar.gz"
@@ -1317,7 +1317,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2804546,
-        "download_count": 5828728,
+        "download_count": 5830555,
         "created_at": "2018-03-12T23:25:38Z",
         "updated_at": "2018-03-12T23:25:38Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-linux64.tar.gz"
@@ -1351,7 +1351,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1536808,
-        "download_count": 1018395,
+        "download_count": 1018525,
         "created_at": "2018-03-12T23:22:46Z",
         "updated_at": "2018-03-12T23:22:47Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-macos.tar.gz"
@@ -1385,7 +1385,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2510890,
-        "download_count": 84883,
+        "download_count": 84886,
         "created_at": "2018-03-13T14:41:25Z",
         "updated_at": "2018-03-13T14:41:57Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-win32.zip"
@@ -1419,7 +1419,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3401446,
-        "download_count": 1395824,
+        "download_count": 1395873,
         "created_at": "2018-03-12T23:24:13Z",
         "updated_at": "2018-03-12T23:24:14Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-win64.zip"
@@ -1493,7 +1493,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2298589,
-        "download_count": 42892,
+        "download_count": 42899,
         "created_at": "2017-10-31T19:13:46Z",
         "updated_at": "2017-10-31T19:13:46Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-arm7hf.tar.gz"
@@ -1527,7 +1527,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2339277,
-        "download_count": 21740,
+        "download_count": 21743,
         "created_at": "2017-10-31T19:16:37Z",
         "updated_at": "2017-10-31T19:16:37Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-linux32.tar.gz"
@@ -1561,7 +1561,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2301226,
-        "download_count": 12932406,
+        "download_count": 12933304,
         "created_at": "2017-10-31T19:15:41Z",
         "updated_at": "2017-10-31T19:15:42Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-linux64.tar.gz"
@@ -1595,7 +1595,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1320929,
-        "download_count": 3325805,
+        "download_count": 3326473,
         "created_at": "2017-10-31T19:58:05Z",
         "updated_at": "2017-10-31T19:58:06Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-macos.tar.gz"
@@ -1629,7 +1629,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2081376,
-        "download_count": 331899,
+        "download_count": 331905,
         "created_at": "2017-11-01T14:35:04Z",
         "updated_at": "2017-11-01T14:35:05Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-win32.zip"
@@ -1663,7 +1663,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2133764,
-        "download_count": 5270978,
+        "download_count": 5271438,
         "created_at": "2017-10-31T19:14:59Z",
         "updated_at": "2017-10-31T19:15:00Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-win64.zip"
@@ -1771,7 +1771,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2296639,
-        "download_count": 7552,
+        "download_count": 7553,
         "created_at": "2017-09-16T10:57:26Z",
         "updated_at": "2017-09-16T10:57:27Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.0/geckodriver-v0.19.0-linux32.tar.gz"
@@ -1805,7 +1805,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2259579,
-        "download_count": 7826034,
+        "download_count": 7826807,
         "created_at": "2017-09-16T10:57:10Z",
         "updated_at": "2017-09-16T10:57:11Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.0/geckodriver-v0.19.0-linux64.tar.gz"
@@ -1839,7 +1839,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1345925,
-        "download_count": 1011979,
+        "download_count": 1011981,
         "created_at": "2017-09-16T11:15:27Z",
         "updated_at": "2017-09-16T11:15:27Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.0/geckodriver-v0.19.0-macos.tar.gz"
@@ -1873,7 +1873,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2746465,
-        "download_count": 50275,
+        "download_count": 50279,
         "created_at": "2017-10-17T15:46:05Z",
         "updated_at": "2017-10-17T15:46:06Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.0/geckodriver-v0.19.0-win32.zip"
@@ -1907,7 +1907,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2177346,
-        "download_count": 1497323,
+        "download_count": 1497443,
         "created_at": "2017-09-16T10:58:45Z",
         "updated_at": "2017-09-16T10:58:46Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.19.0/geckodriver-v0.19.0-win64.zip"
@@ -1981,7 +1981,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2235863,
-        "download_count": 20393,
+        "download_count": 20394,
         "created_at": "2017-07-11T12:38:48Z",
         "updated_at": "2017-07-11T12:38:48Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-arm7hf.tar.gz"
@@ -2015,7 +2015,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2274574,
-        "download_count": 16675,
+        "download_count": 16677,
         "created_at": "2017-07-11T12:39:23Z",
         "updated_at": "2017-07-11T12:39:23Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux32.tar.gz"
@@ -2049,7 +2049,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2260781,
-        "download_count": 3962400,
+        "download_count": 3963170,
         "created_at": "2017-07-11T12:39:18Z",
         "updated_at": "2017-07-11T12:39:18Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz"
@@ -2083,7 +2083,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1378434,
-        "download_count": 1355485,
+        "download_count": 1355514,
         "created_at": "2017-07-11T12:52:00Z",
         "updated_at": "2017-07-11T12:52:00Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-macos.tar.gz"
@@ -2117,7 +2117,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2374877,
-        "download_count": 144927,
+        "download_count": 144932,
         "created_at": "2017-07-11T12:42:37Z",
         "updated_at": "2017-07-11T12:42:38Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-win32.zip"
@@ -2151,7 +2151,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2185724,
-        "download_count": 1754049,
+        "download_count": 1754104,
         "created_at": "2017-07-11T12:40:21Z",
         "updated_at": "2017-07-11T12:40:22Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-win64.zip"
@@ -2225,7 +2225,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2236464,
-        "download_count": 11869,
+        "download_count": 11872,
         "created_at": "2017-06-09T15:50:40Z",
         "updated_at": "2017-06-09T15:50:41Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-arm7hf.tar.gz"
@@ -2259,7 +2259,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2278328,
-        "download_count": 4842,
+        "download_count": 4843,
         "created_at": "2017-06-09T15:48:14Z",
         "updated_at": "2017-06-09T15:48:14Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-linux32.tar.gz"
@@ -2293,7 +2293,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2263296,
-        "download_count": 1603721,
+        "download_count": 1603823,
         "created_at": "2017-06-09T15:48:06Z",
         "updated_at": "2017-06-09T15:48:06Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-linux64.tar.gz"
@@ -2327,7 +2327,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1381852,
-        "download_count": 408353,
+        "download_count": 408355,
         "created_at": "2017-06-09T16:16:16Z",
         "updated_at": "2017-06-09T16:16:16Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-macos.tar.gz"
@@ -2361,7 +2361,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2255062,
-        "download_count": 56786,
+        "download_count": 56789,
         "created_at": "2017-06-09T15:50:47Z",
         "updated_at": "2017-06-09T15:50:48Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-win32.zip"
@@ -2395,7 +2395,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2187418,
-        "download_count": 657684,
+        "download_count": 657691,
         "created_at": "2017-06-09T15:48:45Z",
         "updated_at": "2017-06-09T15:48:45Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.17.0/geckodriver-v0.17.0-win64.zip"
@@ -2503,7 +2503,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2183421,
-        "download_count": 8388108,
+        "download_count": 8388389,
         "created_at": "2017-04-26T13:08:58Z",
         "updated_at": "2017-04-26T13:08:58Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.16.1/geckodriver-v0.16.1-linux64.tar.gz"
@@ -2537,7 +2537,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1352090,
-        "download_count": 864949,
+        "download_count": 865004,
         "created_at": "2017-04-26T13:10:11Z",
         "updated_at": "2017-04-26T13:10:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.16.1/geckodriver-v0.16.1-macos.tar.gz"
@@ -2605,7 +2605,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2174713,
-        "download_count": 1096217,
+        "download_count": 1096240,
         "created_at": "2017-04-26T13:08:43Z",
         "updated_at": "2017-04-26T13:08:43Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.16.1/geckodriver-v0.16.1-win64.zip"
@@ -2713,7 +2713,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2179599,
-        "download_count": 890783,
+        "download_count": 890881,
         "created_at": "2017-04-21T15:15:03Z",
         "updated_at": "2017-04-21T15:15:03Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.16.0/geckodriver-v0.16.0-linux64.tar.gz"
@@ -2747,7 +2747,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1346599,
-        "download_count": 633178,
+        "download_count": 633189,
         "created_at": "2017-04-21T15:21:03Z",
         "updated_at": "2017-04-21T15:21:04Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.16.0/geckodriver-v0.16.0-macos.tar.gz"
@@ -2923,7 +2923,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2081948,
-        "download_count": 1091533,
+        "download_count": 1091615,
         "created_at": "2017-03-08T11:40:39Z",
         "updated_at": "2017-03-08T11:40:39Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.15.0/geckodriver-v0.15.0-linux64.tar.gz"
@@ -2957,7 +2957,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1266948,
-        "download_count": 497192,
+        "download_count": 497193,
         "created_at": "2017-03-08T12:42:16Z",
         "updated_at": "2017-03-08T12:42:16Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.15.0/geckodriver-v0.15.0-macos.tar.gz"
@@ -3025,7 +3025,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2014253,
-        "download_count": 670808,
+        "download_count": 670811,
         "created_at": "2017-03-08T11:41:40Z",
         "updated_at": "2017-03-08T11:41:40Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.15.0/geckodriver-v0.15.0-win64.zip"
@@ -3167,7 +3167,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1832331,
-        "download_count": 1083210,
+        "download_count": 1083544,
         "created_at": "2017-01-31T17:15:42Z",
         "updated_at": "2017-01-31T17:15:43Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-linux64.tar.gz"
@@ -3201,7 +3201,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1295330,
-        "download_count": 148603,
+        "download_count": 148611,
         "created_at": "2017-02-01T22:46:11Z",
         "updated_at": "2017-02-01T22:46:12Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-macos.tar.gz"
@@ -3235,7 +3235,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2265388,
-        "download_count": 37687,
+        "download_count": 37701,
         "created_at": "2017-01-31T17:20:44Z",
         "updated_at": "2017-01-31T17:20:44Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-win32.zip"
@@ -3411,7 +3411,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1801469,
-        "download_count": 2448194,
+        "download_count": 2448287,
         "created_at": "2017-01-06T18:01:53Z",
         "updated_at": "2017-01-06T18:01:53Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-linux64.tar.gz"
@@ -3445,7 +3445,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1263029,
-        "download_count": 795413,
+        "download_count": 795490,
         "created_at": "2017-01-06T18:32:43Z",
         "updated_at": "2017-01-06T18:32:44Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-macos.tar.gz"
@@ -3521,7 +3521,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/mozilla/geckodriver/tarball/v0.13.0",
     "zipball_url": "https://api.github.com/repos/mozilla/geckodriver/zipball/v0.13.0",
-    "body": "## 0.13.0 (2017-01-06)\n\n### Changed\n- When navigating to a document with an insecure- or otherwise invalid TLS certificate, an [insecure certificate](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-insecure-certificate) error will be returned\n- On macOS, deducing Firefox’ location on the system will look for _firefox-bin_ on the system path (`PATH` environmental variable) before looking in the applications folder\n- Window position coordinates are allowed to be negative numbers, to cater for maximised window positioning on Windows\n- WebDriver library updated to version 0.18.0\n\n### Fixed\n- Check for single-character key codes in action sequences now counts characters instead of bytes\n"
+    "body": "## 0.13.0 (2017-01-06)\n\n### Changed\n- When navigating to a document with an insecure- or otherwise invalid TLS certificate, an [insecure certificate](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-insecure-certificate) error will be returned\n- On macOS, deducing Firefox��� location on the system will look for _firefox-bin_ on the system path (`PATH` environmental variable) before looking in the applications folder\n- Window position coordinates are allowed to be negative numbers, to cater for maximised window positioning on Windows\n- WebDriver library updated to version 0.18.0\n\n### Fixed\n- Check for single-character key codes in action sequences now counts characters instead of bytes\n"
   },
   {
     "url": "https://api.github.com/repos/mozilla/geckodriver/releases/5059848",
@@ -3655,7 +3655,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1786240,
-        "download_count": 267605,
+        "download_count": 267606,
         "created_at": "2017-01-03T19:43:05Z",
         "updated_at": "2017-01-03T19:43:05Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-linux64.tar.gz"
@@ -3757,7 +3757,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2172581,
-        "download_count": 522368,
+        "download_count": 522371,
         "created_at": "2017-01-03T19:43:24Z",
         "updated_at": "2017-01-03T19:43:24Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-win64.zip"
@@ -3899,7 +3899,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1455774,
-        "download_count": 11353459,
+        "download_count": 11355218,
         "created_at": "2016-10-10T11:51:26Z",
         "updated_at": "2016-10-10T11:51:27Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-linux64.tar.gz"
@@ -3933,7 +3933,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1208796,
-        "download_count": 2539007,
+        "download_count": 2539159,
         "created_at": "2016-10-10T11:54:28Z",
         "updated_at": "2016-10-10T11:54:29Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-macos.tar.gz"
@@ -3967,7 +3967,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2132770,
-        "download_count": 405020,
+        "download_count": 405021,
         "created_at": "2016-10-10T11:53:57Z",
         "updated_at": "2016-10-10T11:53:57Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-win32.zip"
@@ -4001,7 +4001,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2486790,
-        "download_count": 6447966,
+        "download_count": 6452249,
         "created_at": "2016-10-10T11:52:23Z",
         "updated_at": "2016-10-10T11:52:24Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-win64.zip"
@@ -4353,7 +4353,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1379434,
-        "download_count": 2471485,
+        "download_count": 2471559,
         "created_at": "2016-08-02T22:49:20Z",
         "updated_at": "2016-08-02T22:49:20Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-linux64.tar.gz"
@@ -4387,7 +4387,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1243480,
-        "download_count": 805414,
+        "download_count": 805415,
         "created_at": "2016-08-02T22:53:25Z",
         "updated_at": "2016-08-02T22:53:25Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-macos.tar.gz"
@@ -4421,7 +4421,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2388055,
-        "download_count": 497253,
+        "download_count": 497254,
         "created_at": "2016-08-02T22:51:03Z",
         "updated_at": "2016-08-02T22:51:03Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-win64.zip"
@@ -4529,7 +4529,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1237128,
-        "download_count": 1949952,
+        "download_count": 1949967,
         "created_at": "2016-06-30T16:23:34Z",
         "updated_at": "2016-06-30T16:23:35Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-linux64.tar.gz"
@@ -4563,7 +4563,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1096885,
-        "download_count": 754753,
+        "download_count": 754754,
         "created_at": "2016-06-30T16:44:51Z",
         "updated_at": "2016-06-30T16:44:51Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-mac.tar.gz"
@@ -4597,7 +4597,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2202503,
-        "download_count": 922049,
+        "download_count": 922050,
         "created_at": "2016-06-30T17:33:32Z",
         "updated_at": "2016-06-30T17:33:34Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-win64.zip"
@@ -4671,7 +4671,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 1229624,
-        "download_count": 59224,
+        "download_count": 59225,
         "created_at": "2016-06-09T13:19:09Z",
         "updated_at": "2016-06-09T13:19:23Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.8.0/geckodriver-0.8.0-linux64.gz"
