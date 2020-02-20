@@ -1,0 +1,100 @@
+What can be used to script the change to SAFe?	The Implementation Roadmap
+
+What is one Guardrail on Lean Budget spend?	Continuous Business Owner engagement
+
+How is the flow of Portfolio Epics managed?	In the Portfolio Kanban
+
+Which statement accurately characterizes Strategic Themes?	
+ They are business objectives that connect the SAFe portfolio to the Enterprise business strategy
+ 
+If a program repeatedly shows separate Feature branches rather than a true System Demo, which practice should be reviewed to address the issue?	
+ Continuous Integration
+ 
+Which statement is true about DevOps?	
+ DevOps is an approach to bridge the gap between development and operations 
+ 
+In the Program Kanban some steps have work in process (WIP) limits. Why is this necessary?	
+  To ensure large queues are not being built
+
+What is one of the Agile Release Train sync meetings?	Scrum of scrums
+
+
+Which statement is true about the Innovation and Planning (IP) Iteration?	
+ Without the IP Iteration, there is a risk that the 'tyranny of the urgent' outweighs all innovation activities 
+ 
+When is a pre-PI Planning event needed?	
+  When multiple Agile Release Trains working on the same Solution need to align and coordinate
+
+On day two of PI Planning, management presents adjustments based on the previous day's management review and problem solving meeting. What is one possible type of adjustment they could make?	
+  Business priorities
+
+What is found on a program board?	Features 
+
+What is considered an anti-pattern when assigning business values to team PI Objectives?	 
+ All PI Objectives are given a value of 10
+
+What is the impact of Customer Centricity?	
+  To understand the Customer's needs
+  
+The Agile Release Train uses which type of teams to get work done?	
+Cross-functional teams
+
+Product Management has content authority over the Program Backlog. What do Product Owners have content authority over?	
+ Team Backlog  
+
+ What is the basic building block when organizing around value?	Agile Teams
+ 
+ Which is an aspect of systems thinking?	
+ Optimizing a component does not optimize the system
+
+What are the three primary keys to implementing flow? (Choose three.)	
+  Manage queue lengths;Reduce the batch sizes of work;Visualize and limit work in process (WIP);
+
+What is an example of applying cadence-based synchronization in SAFe?	
+  Teams align their Iterations to the same schedule to support communication, coordination, and system integration
+  
+Which statement is a value from the Agile Manifesto?	Respond to change
+
+Which statement is a principle of the Agile Manifesto?	Simplicity–the art of maximizing the amount of work not done–is essential
+
+When basing decisions on economics, how are lead time, product cost, value, and development expense used?	
+   To identify different parameters of the economic framework  
+   
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	          Innovation
+
+
+What are the last three steps of the SAFe Implementation Roadmap?	
+  Launch more Agile Release Trains and Value Streams, extend to the portfolio, accelerate
+
+What can be used as a template for putting SAFe into practice within an organization?	
+
+  SAFe Implementation Roadmap
+
+Which of the core competencies of the Lean Enterprise helps align strategy and execution?	
+   Lean Portfolio Management
+   
+What must management do for a successful Agile transformation?	
+  Commit to quality and be the change agent in the system
+
+How does SAFe provide a second operating system that enables Business Agility?	
+  By focusing on customers, products, innovation, and growth
+
+What is Business Agility?	
+  The ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business Solutions   
+
+ What is part of the role of Product Management?	
+  To prioritize the Program Backlog 
+  
+ Who has content authority to make decisions at the User Story level during Program Increment (PI) Planning?	
+   Product Owner
+
+  
+What is one component of the Continuous Delivery Pipeline?	
+   Continuous Exploration
+   
+Which statement is true when continuously deploying using a DevOps model?	
+  It lessens the severity and frequency of release failures
+  
+ Who is responsible for the Solution Backlog?
+   Solution Management
+ 
