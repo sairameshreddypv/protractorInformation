@@ -1,0 +1,21 @@
+What is the foundation of the SAFe House of Lean?	
+ Relentless improvement
+ Value
+ FLOW
+
+Which statement fits with the SAFe Core Value of Built-in Quality?	
+  Quality depends on the scale of the project and should be implemented from the top down
+  Quality should only be worked on during the Innovation and Planning Iteration
+  Quality is not part of the SAFe Core Values
+  
+What is a minimum viable product?	
+  A minimal Story a team can deliver in an Iteration , 
+  A minimal Feature that can be released to the market
+  A minimal product that can be built to achieve market dominance
+  
+What is the last step in Kotter's approach to change management?	
+
+  Consolidate gains and produce more wins  ,
+  Sustain and improve
+  Generate short-term wins
+
